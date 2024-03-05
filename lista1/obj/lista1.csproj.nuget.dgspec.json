@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crist\\Desktop\\listas\\lista1\\lista1.csproj": {}
+    "C:\\Users\\crist\\Desktop\\Projetos Faculdade\\listas\\lista1\\lista1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crist\\Desktop\\listas\\lista1\\lista1.csproj": {
+    "C:\\Users\\crist\\Desktop\\Projetos Faculdade\\listas\\lista1\\lista1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crist\\Desktop\\listas\\lista1\\lista1.csproj",
+        "projectUniqueName": "C:\\Users\\crist\\Desktop\\Projetos Faculdade\\listas\\lista1\\lista1.csproj",
         "projectName": "lista1",
-        "projectPath": "C:\\Users\\crist\\Desktop\\listas\\lista1\\lista1.csproj",
+        "projectPath": "C:\\Users\\crist\\Desktop\\Projetos Faculdade\\listas\\lista1\\lista1.csproj",
         "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crist\\Desktop\\listas\\lista1\\obj\\",
+        "outputPath": "C:\\Users\\crist\\Desktop\\Projetos Faculdade\\listas\\lista1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config"

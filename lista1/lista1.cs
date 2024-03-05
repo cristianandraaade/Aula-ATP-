@@ -81,6 +81,8 @@ class Program{
         Console.WriteLine("o valor em reais de cada kilowatt: {0:f2}", valor_100watt);
         Console.WriteLine("o valor a ser pago: {0:f2}", valor_pagar);
         Console.WriteLine("o valor com desconto: {0:f2}", valor_desconto);
+
+        */
     
 
         
