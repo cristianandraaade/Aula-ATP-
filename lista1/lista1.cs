@@ -4,10 +4,13 @@ git commit -m "lista 1 4/3/2024" (criar uma versão nova)
 git push (sobe a versão pro github)
 */
 using System;
-class Program{
-    public static void Main(){
+using System.Security.Cryptography.X509Certificates;
+class Program
+{
+    public static void Main()
+    {
 
-        
+
 
         /*Questão 1
 
@@ -57,7 +60,7 @@ class Program{
 
         */
 
-        //Questão 3
+        /*Questão 3
 
         //declaração de variaveis
 
@@ -77,24 +80,56 @@ class Program{
         val_desconto = val_pagar * 0.9;
 
         //saida de dados
-        
+
         Console.WriteLine("o valor em reais de cada kilowatt: {0:f2}", val_1kw);
         Console.WriteLine("o valor a ser pago: {0:f2}", val_pagar);
         Console.WriteLine("o valor com desconto: {0:f2}", val_desconto);
 
-        
+        */
+
+        //Questão 4
+
+        //declaração de variaveis
+
+        double distanc, x1, y1, x2, y2;
+
+        Console.WriteLine("Escreva as coordenadas do ponto A (xA, yA) e B (xB, yB)");
+
+        x1 = double.Parse(Console.ReadLine());
+        y1 = double.Parse(Console.ReadLine());
+        x2 = double.Parse(Console.ReadLine());
+        y2 = double.Parse(Console.ReadLine());
+
+        //Processamento de Dados
+
+        distanc = Math.Sqrt(Math.Pow(x2 - x1, 2) + (Math.Pow(y2 - y1, 2)));
+
+        //Saida de Dados
+
+        Console.WriteLine("A distância entre os pontos A e B é {0:f2}", distanc);
 
         
-    
-
-        
 
 
 
 
-        
 
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     }
 }
