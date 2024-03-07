@@ -91,18 +91,21 @@ class Program
 
         //declaração de variaveis
 
-        double distanc, x1, y1, x2, y2;
+        double distanc, xA, yA, xB, yB;
 
-        Console.WriteLine("Escreva as coordenadas do ponto A (xA, yA) e B (xB, yB)");
+        Console.WriteLine("Escreva as coordenadas do ponto A (xA, yA)");
 
-        x1 = double.Parse(Console.ReadLine());
-        y1 = double.Parse(Console.ReadLine());
-        x2 = double.Parse(Console.ReadLine());
-        y2 = double.Parse(Console.ReadLine());
+        xA = double.Parse(Console.ReadLine());
+        yA = double.Parse(Console.ReadLine());
+
+        Console.WriteLine("Escreva as coordenadas do ponto B (xB, yB)");
+
+        xB = double.Parse(Console.ReadLine());
+        yB = double.Parse(Console.ReadLine());
 
         //Processamento de Dados
 
-        distanc = Math.Sqrt(Math.Pow(x2 - x1, 2) + (Math.Pow(y2 - y1, 2)));
+        distanc = Math.Sqrt(Math.Pow(xB - xA, 2) + (Math.Pow(yB - yA, 2)));
 
         //Saida de Dados
 
