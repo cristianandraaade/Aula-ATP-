@@ -61,7 +61,7 @@ class Program{
 
         //declaração de variaveis
 
-        double salario, watt, valor_100watt, valor_pagar, valor_desconto;
+        double salario, watt, val_1kw, val_pagar, val_desconto;
 
         //Entrada de dados
 
@@ -72,17 +72,19 @@ class Program{
 
         //Processamento de dados
 
-        valor_100watt = salario / 7 / 100;
-        valor_pagar = watt + valor_100watt;
-        valor_desconto = valor_pagar * 0.9;
+        val_1kw = salario / 7 / 100;
+        val_pagar = watt * val_1kw;
+        val_desconto = val_pagar * 0.9;
 
         //saida de dados
         
-        Console.WriteLine("o valor em reais de cada kilowatt: {0:f2}", valor_100watt);
-        Console.WriteLine("o valor a ser pago: {0:f2}", valor_pagar);
-        Console.WriteLine("o valor com desconto: {0:f2}", valor_desconto);
+        Console.WriteLine("o valor em reais de cada kilowatt: {0:f2}", val_1kw);
+        Console.WriteLine("o valor a ser pago: {0:f2}", val_pagar);
+        Console.WriteLine("o valor com desconto: {0:f2}", val_desconto);
 
-        */
+        
+
+        
     
 
         
