@@ -10,6 +10,6 @@ aux=a;
 a=b;
 b=aux;
 //saida de dados
-Console.WriteLine("O valor de A é " + a);
-Console.WriteLine("O valor de B é "+ b);
+Console.WriteLine("O valor de A agora é " + a);
+Console.WriteLine("O valor de B agora é "+ b);
 

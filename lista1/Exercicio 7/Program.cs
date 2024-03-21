@@ -8,4 +8,4 @@ a=tempo/365;
 m=(tempo%365)/30;
 d=(tempo%365)%30;
 //saida de dados
-Console.WriteLine("Dias sem acidentes: "+ a + " anos " + m + " meses " + d + " dias ");
+Console.WriteLine("Dias sem acidentes: "+ a + " ano(s) " + m + " mes(es) " + d + " dia(s) ");

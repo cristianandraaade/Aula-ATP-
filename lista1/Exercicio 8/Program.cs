@@ -1,4 +1,4 @@
-//declaração de variaveis
+﻿//declaração de variaveis
 int num,u,d,c,numINV,soma1,mi,ce,de,uni,mS;
 //Entrada de dados
 Console.WriteLine("Insira 3 digitos");
