@@ -8,33 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\1470341\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\crist\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1470341\\Aula-ATP-\\lista2\\Exercicio 6\\Exercicio 6.csproj",
+      "projectUniqueName": "C:\\Users\\crist\\Desktop\\Projetos Faculdade\\Aula-ATP-\\lista2\\Exercicio 6\\Exercicio 6.csproj",
       "projectName": "Exercicio 6",
-      "projectPath": "C:\\Users\\1470341\\Aula-ATP-\\lista2\\Exercicio 6\\Exercicio 6.csproj",
-      "packagesPath": "C:\\Users\\1470341\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1470341\\Aula-ATP-\\lista2\\Exercicio 6\\obj\\",
+      "projectPath": "C:\\Users\\crist\\Desktop\\Projetos Faculdade\\Aula-ATP-\\lista2\\Exercicio 6\\Exercicio 6.csproj",
+      "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\crist\\Desktop\\Projetos Faculdade\\Aula-ATP-\\lista2\\Exercicio 6\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\1470341\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -47,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -68,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
