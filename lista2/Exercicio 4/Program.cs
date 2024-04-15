@@ -19,7 +19,7 @@ class Program
         switch (valid)
         {
             case 'S':
-                Console.WriteLine("Você possuí " +  idadeAtual  + "anos");
+                Console.WriteLine("Você possuí " +  idadeAtual  + " anos");
                 if (idadeAtual >= 18)
                 {
                     Console.WriteLine("Você pode conseguir a carteira de habilitação");
@@ -31,7 +31,7 @@ class Program
                 break;
             case 'N':
                 idadeAtual--;
-                Console.WriteLine("Você possuí " +  idadeAtual  + "anos");
+                Console.WriteLine("Você possuí " +  idadeAtual  + " anos");
                 if (idadeAtual >= 18)
                 {
                     Console.WriteLine("Você pode conseguir a carteira de habilitação");
