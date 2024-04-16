@@ -5,7 +5,7 @@
             int numeroDigitado=0,numerosPositivos=-1,NumerosNegativos=0,zeros=0;
             int stop=007;
             while (numeroDigitado != stop){
-                Console.WriteLine("Digite números inteiro(Digite P para encerrar)");
+                Console.WriteLine("Digite números inteiro(Digite 007 para encerrar)");
                 numeroDigitado=int.Parse(Console.ReadLine());
                 if (numeroDigitado == 0){
                     zeros ++;
