@@ -33,16 +33,16 @@ class Program
         } while (numeroDigitado != stop);
         //calcula a porcentagem dos tipos de numeros baseados no total
         
-        percentZeros=(float)(total/zeros)*10;
-        percentPositivos=(float)(total/numerosPositivos)*10;
-        percentNegativos=(float)(total/numerosNegativos)*10;
+        percentZeros=((float)zeros/total)*100;
+        percentPositivos=((float)numerosPositivos/total)*100;
+        percentNegativos=((float)numerosNegativos/total)*100;
         //saida de dados
         Console.WriteLine("Números positivos: " + numerosPositivos);
         Console.WriteLine("Números negativos: " + numerosNegativos);
         Console.WriteLine("Zeros: " + zeros);
         Console.WriteLine("total " + total);
-        Console.WriteLine("Porcentagem de zeros " + percentZeros + "%");
-        Console.WriteLine("Porcentagem de Positivos " + percentPositivos + "%");
-        Console.WriteLine("Porcentagem de Negativos " + percentNegativos + "%");
+        Console.WriteLine("Porcentagem de zeros {0:f2}% ", percentZeros);
+        Console.WriteLine("Porcentagem de Positivos {0:f2}% ",percentPositivos);
+        Console.WriteLine("Porcentagem de Negativos {0:f2}% ", percentNegativos);
     }
 }
