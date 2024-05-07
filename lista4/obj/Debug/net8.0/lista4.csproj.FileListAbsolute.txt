@@ -1,0 +1,15 @@
+C:\Users\1470341\Aula-ATP-\lista4\bin\Debug\net8.0\lista4.exe
+C:\Users\1470341\Aula-ATP-\lista4\bin\Debug\net8.0\lista4.deps.json
+C:\Users\1470341\Aula-ATP-\lista4\bin\Debug\net8.0\lista4.runtimeconfig.json
+C:\Users\1470341\Aula-ATP-\lista4\bin\Debug\net8.0\lista4.dll
+C:\Users\1470341\Aula-ATP-\lista4\bin\Debug\net8.0\lista4.pdb
+C:\Users\1470341\Aula-ATP-\lista4\obj\Debug\net8.0\lista4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1470341\Aula-ATP-\lista4\obj\Debug\net8.0\lista4.AssemblyInfoInputs.cache
+C:\Users\1470341\Aula-ATP-\lista4\obj\Debug\net8.0\lista4.AssemblyInfo.cs
+C:\Users\1470341\Aula-ATP-\lista4\obj\Debug\net8.0\lista4.csproj.CoreCompileInputs.cache
+C:\Users\1470341\Aula-ATP-\lista4\obj\Debug\net8.0\lista4.sourcelink.json
+C:\Users\1470341\Aula-ATP-\lista4\obj\Debug\net8.0\lista4.dll
+C:\Users\1470341\Aula-ATP-\lista4\obj\Debug\net8.0\refint\lista4.dll
+C:\Users\1470341\Aula-ATP-\lista4\obj\Debug\net8.0\lista4.pdb
+C:\Users\1470341\Aula-ATP-\lista4\obj\Debug\net8.0\lista4.genruntimeconfig.cache
+C:\Users\1470341\Aula-ATP-\lista4\obj\Debug\net8.0\ref\lista4.dll
