@@ -1,0 +1,15 @@
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\lista5\obj\Debug\net8.0\lista5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\lista5\obj\Debug\net8.0\lista5.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\lista5\obj\Debug\net8.0\lista5.AssemblyInfo.cs
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\lista5\obj\Debug\net8.0\lista5.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\lista5\obj\Debug\net8.0\lista5.sourcelink.json
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\lista5\bin\Debug\net8.0\lista5.exe
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\lista5\bin\Debug\net8.0\lista5.deps.json
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\lista5\bin\Debug\net8.0\lista5.runtimeconfig.json
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\lista5\bin\Debug\net8.0\lista5.dll
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\lista5\bin\Debug\net8.0\lista5.pdb
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\lista5\obj\Debug\net8.0\lista5.dll
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\lista5\obj\Debug\net8.0\refint\lista5.dll
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\lista5\obj\Debug\net8.0\lista5.pdb
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\lista5\obj\Debug\net8.0\lista5.genruntimeconfig.cache
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\lista5\obj\Debug\net8.0\ref\lista5.dll
