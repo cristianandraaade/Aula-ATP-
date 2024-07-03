@@ -1,0 +1,15 @@
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\trabalho-final\bin\Debug\net8.0\trabalho-final.exe
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\trabalho-final\bin\Debug\net8.0\trabalho-final.deps.json
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\trabalho-final\bin\Debug\net8.0\trabalho-final.runtimeconfig.json
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\trabalho-final\bin\Debug\net8.0\trabalho-final.dll
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\trabalho-final\bin\Debug\net8.0\trabalho-final.pdb
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\trabalho-final\obj\Debug\net8.0\trabalho-final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\trabalho-final\obj\Debug\net8.0\trabalho-final.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\trabalho-final\obj\Debug\net8.0\trabalho-final.AssemblyInfo.cs
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\trabalho-final\obj\Debug\net8.0\trabalho-final.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\trabalho-final\obj\Debug\net8.0\trabalho-final.sourcelink.json
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\trabalho-final\obj\Debug\net8.0\trabalho-final.dll
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\trabalho-final\obj\Debug\net8.0\refint\trabalho-final.dll
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\trabalho-final\obj\Debug\net8.0\trabalho-final.pdb
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\trabalho-final\obj\Debug\net8.0\trabalho-final.genruntimeconfig.cache
+C:\Users\crist\Desktop\Projetos Faculdade\Aula-ATP-\trabalho-final\obj\Debug\net8.0\ref\trabalho-final.dll
